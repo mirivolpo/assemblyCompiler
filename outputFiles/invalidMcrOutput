@@ -1,0 +1,7 @@
+ERROR in file invalidMcr.am in line 1 :The macro name is the name of a command.
+ERROR in file invalidMcr.am, in line 4 : Invalid chars after mcro
+ERROR in file invalidMcr.am in line 7 :The macro name is the name of a directive.
+ERROR in file invalidMcr.am in line 10 :The macro name contains invalid characters.
+ERROR in file invalidMcr.am in line 10 :The macro name is the name of a registers.
+ERROR in file invalidMcr.am, in line 12 : Invalid chars after mcroend.
+ERROR in file invalidMcr.am, in line 15 : Invalid chars after mcroend.

@@ -1,0 +1,11 @@
+ERROR in file invalidFirst.am, in line 1 : Missing a second operand
+ERROR in file invalidFirst.am, in line 2 : Invalid operand.
+ERROR in file invalidFirst.am, in line 3 : Invalid chars after command .
+ERROR in file invalidFirst.am, in line 4 : Invalid operand.
+ERROR in file invalidFirst.am in line 5 : Invalid line
+ERROR in file invalidFirst.am, in line 7 : Invalid charecters in label.
+ERROR in file invalidFirst.am in line 8 : Invalid line
+ERROR in file invalidFirst.am in line 9 : Invalid line
+ERROR in file invalidFirst.am in line 11 : Invalid line
+ERROR in file invalidFirst.am, in line 12 : Invalid chars, string should start and end with quotation marks
+ERROR in file invalidFirst.am, in line 13 : Invalid chars for data
